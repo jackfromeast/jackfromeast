@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I am currently a senior student who major in Cybersecurity at Sichuan University, China. I am so excited that I was admitted by the MSE Computer Science program at the Johns Hopkins University and plan to move to Baltimore to continue my graduate study this fall.
 
-I have a broad interest in the field of security and my work is dedicated to driving cybersecurity to be more intelligent and smarter. Currently, I am working on the Knowledge Graph construction for the Threat Intelligence storage, sharing, and retrieval.
+I have a broad interest in the field of security. And my work is dedicated to driving cybersecurity to be smarter and more intelligent. Currently, I am working on the Knowledge Graph construction for the Threat Intelligence storage, sharing, and retrieval.
 
 ![jackfromeast's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackfromeast&show_icons=true&theme=dracula)
