@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a senior student who major in Cybersecurity at Sichuan University, China. I am so excited that I was admitted by the MSE in Computer Science program at the Johns Hopkins University and plan to move to Baltimore for my graduate study this fall.
+I received my undergraduate degree, B.Eng in Cybersecurity, at Sichuan University, China. I am so excited that I was admitted by the MSE in Computer Science program at the Johns Hopkins University and plan to move to Baltimore for my graduate study this fall.
 
 I have a broad interest in the field of security. And my work is dedicated to driving cybersecurity to be smarter and more intelligent. Currently, I am working on the Knowledge Graph construction for the Threat Intelligence storage, sharing, and retrieval.
 
