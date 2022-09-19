@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I received my undergraduate degree, B.Eng in Cybersecurity, at Sichuan University, China. I am so excited that I was admitted by the MSE in Computer Science program at the Johns Hopkins University and plan to move to Baltimore for my graduate study this fall.
+I received my undergraduate degree, B.Eng in Cybersecurity, at Sichuan University, China. Currently, I am a first-year MSE in Computer Science graduate student at Johns Hopkins University, Baltimore. 
 
-I have a broad interest in the field of security. And my work is dedicated to driving cybersecurity to be smarter and more intelligent. Currently, I am working on the Knowledge Graph construction for the Threat Intelligence storage, sharing, and retrieval.
+I have a broad interest in the field of security. My main interests are in language-based security and (static and symbolic) program analysis tools. I also a big CTF fun who enjoying playing CTF with my friends. In the competitions, Iwas mainly working on the Pwn questions, and sometimes I also completed the Web questions.
 
 ![jackfromeast's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackfromeast&show_icons=true&theme=dracula)
