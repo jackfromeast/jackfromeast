@@ -19,4 +19,6 @@ I received my undergraduate degree, B.Eng in Cybersecurity, at Sichuan Universit
 
 I have a broad interest in the field of security. My main interests are in language-based security and (static and symbolic) program analysis tools. I also a big CTF fun who enjoying playing CTF with my friends. In the competitions, I am mainly working on the Pwn(binary exploition) challenges, and sometimes I also try the Web challenges.
 
+Here is my personal blog: (jackfromeast.site)[https://jackfromeast.site]
+
 ![jackfromeast's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackfromeast&show_icons=true&theme=dracula)
