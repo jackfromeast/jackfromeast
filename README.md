@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I received my undergraduate degree, B.Eng in Cybersecurity, at Sichuan University, China. Currently, I am a first-year MSE in Computer Science graduate student at Johns Hopkins University, Baltimore. 
+Currently, I am a first-year MSE in Computer Science graduate student at Johns Hopkins University(JHU). Before I came to the US, I have received my undergraduate degree, B.Eng in Cybersecurity, at Sichuan University, China.
 
 I have a broad interest in the field of security. My main interests are in language-based security and (static and symbolic) program analysis tools. I also a big CTF fun who enjoying playing CTF with my friends. In the competitions, I am mainly working on the Pwn(binary exploition) challenges, and sometimes I also try the Web challenges.
 
