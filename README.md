@@ -21,4 +21,4 @@ I have a broad interest in the field of security. My main interests are in langu
 
 Here is my personal blog: [jackfromeast.site](https://jackfromeast.site)
 
-![jackfromeast's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackfromeast&show_icons=true&theme=dracula)
+<!-- ![jackfromeast's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackfromeast&show_icons=true&theme=dracula) -->
