@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently, I am an incoming(Spring 23) Ph.D. student at Johns Hopkins University(JHU). Before coming to the US, I received my undergraduate degree, B.Eng in Cybersecurity, at Sichuan University, China.
+Currently, I am an incoming (Spring 23) Ph.D. student at Johns Hopkins University(JHU). Before coming to the US, I received my undergraduate degree, B.Eng in Cybersecurity, at Sichuan University, China.
 
 I have a broad interest in the field of security. My main interests are in language-based security and (static and symbolic) program analysis tools. I am also a big fan of CTF! I am currently playing with teams `Z0D1AC` and `theHackersCrew`. In the competitions, I am mainly working on the pwn challenges, and sometimes I also try the web challenges.
 
