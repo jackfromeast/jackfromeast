@@ -19,4 +19,6 @@ Currently, I am a first-year Ph.D. student at Johns Hopkins University(JHU). Bef
 
 I have a broad interest in the field of security. My main interests are in Web Security and Browser Security. I am also a big fan of CTF! I am currently playing with teams `Z0D1AC` and `theHackersCrew`. In the competitions, I am mainly working on the pwn challenges, and sometimes I also try the web challenges.
 
+Feel free to check out [my blog](HTTP://jackfromeast.site) and [personal website](HTTP://jackfromeast.github.io).
+
 <!-- ![jackfromeast's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackfromeast&show_icons=true&theme=dracula) -->
